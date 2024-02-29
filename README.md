@@ -1,2 +1,2 @@
-# SDAIA-Larg-Language-Models-2024-P
-This repository compiles all the assignments associated with SDAIA LLMs Bootcamp.
+# Large Language Models 'LLMs" bootcamp (2024):
+##This repository compiles all the assignments associated with SDAIA LLMs Bootcamp.
